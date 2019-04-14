@@ -6,7 +6,8 @@ export default {
     se: 'Schaman',
     ru: 'Шаман',
     fr: 'Chaman',
-    es: 'Chamán'
+    es: 'Chamán',
+    ptbr: 'Xamã'
   },
   // Class description, visible during character creation
   description: {
@@ -15,6 +16,7 @@ export default {
     ru: 'Шаманы играют роль поддержки группы, излечивая Танка и преподнося усиливающие бонусы или наносящие урон отрицательные эффекты.',
     de: 'Die Rolle der Schamanen besteht darin, die Gruppe zu unterstützen, indem sie den Panzer heilen und beleidigende Buffs anbieten oder Debuffs verkrüppeln.',
     es: 'El papel del chamán es apoyar al grupo curando el tanque y ofreciendo Buffs ofensivos o Debuffs paralizantes.',
-    fr: 'Le rôle des chamans est de soutenir le groupe en guérissant le char et en offrant des Buffs offensifs ou des Débuffs ralentissants.'
+    fr: 'Le rôle des chamans est de soutenir le groupe en guérissant le char et en offrant des Buffs offensifs ou des Débuffs ralentissants.',
+    ptbr: 'Os Xamãs são os curadores do group, Providenciam suporte aos seus aliados dando Buffs e Debuffs aos seus inimigos.'
   }
 }
